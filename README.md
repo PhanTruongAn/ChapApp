@@ -36,12 +36,13 @@
 
 
 
-  * Đăng nhập 
-![Login](https://github.com/user-attachments/assets/a1f17a0c-615d-4ab8-8c66-61d05cb21a14)
+  * Đăng nhập
 1. Nhập thông tin tài khoản
 2. Đăng nhập
 3. Quên mật khẩu, sẽ chuyển sang màn hình OTP để xác thực.
 4. Đăng ký
+![Login](https://github.com/user-attachments/assets/a1f17a0c-615d-4ab8-8c66-61d05cb21a14)
+
 
 
 
