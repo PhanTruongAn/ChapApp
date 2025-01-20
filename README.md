@@ -15,6 +15,7 @@
 
 ### Công nghệ
 - Đây là các công nghệ được sử dụng trong project.
+
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
@@ -30,9 +31,13 @@
 
   
   * Đăng nhập 
-  ![Login](https://github.com/user-attachments/assets/f9bd2d3d-1c11-4f66-8e80-2512adda1e10)
+  ![Login](https://github.com/user-attachments/assets/a1f17a0c-615d-4ab8-8c66-61d05cb21a14)
+1. Nhập thông tin tài khoản
+2. Đăng nhập
+3. Quên mật khẩu, sẽ chuyển sang màn hình OTP để xác thực.
+4. Đăng ký
 
-  
+
   * Add friend
     - A user can request to add friend to one user and wait for the response.
 
