@@ -41,12 +41,15 @@
 
 
   * Đăng nhập
+  - Người dùng nhập đầy đủ thông tin đăng nhập, có thể lấy lại mật khẩu qua chức năng quên mật khẩu
 1. Nhập thông tin tài khoản
 2. Đăng nhập
 3. Quên mật khẩu, sẽ chuyển sang màn hình OTP để xác thực.
 4. Đăng ký
 
 ![Login](https://github.com/user-attachments/assets/a1f17a0c-615d-4ab8-8c66-61d05cb21a14)
+
+
 
 
 
@@ -69,6 +72,8 @@
 
 
 
+
+
   * Thêm bạn 
     - Người dùng nhập số điện thoại tìm kiếm, gửi lời mời kết bạn và đợi họ chấp nhận
 1. Ấn vào avatar di chuyển vào chat đơn
@@ -77,6 +82,8 @@
 
 ![Addfriend](https://github.com/user-attachments/assets/00a6f4cc-ccda-4a5c-a9f6-412a4726f8a7)
 ![Addfriend3](https://github.com/user-attachments/assets/5889d815-c89b-4a8b-9ddb-1375d8dfd3ce)
+
+
 
 
 
@@ -93,6 +100,8 @@
 
 
 
+
+
   * Tạo nhóm mới
     - Người dùng có thể tạo nhóm với ít nhất là 3 thành viên (bao gồm cả người tạo), chỉ có bạn bè mới hiển thị ở danh sách thêm thành viên vào nhóm.
 1. Nhập tên nhóm
@@ -103,24 +112,27 @@
 
 
 
+
+
   * Chat 1 - 1
     - Chat 1-1: Người dùng có thể chat 1 - 1 với bạn bè hoặc người dùng khác chưa kết bạn.
-1. Xóa tin nhắn
-2. Thu hồi tin nhắn
-3. Chuyển tiếp tin nhắn
-4. Gửi hình ảnh
-5. Gửi emoji
-6. Gửi GIF
-7. Gửi video
-8. Nhập tin nhắn
-9. Gửi tin nhắn
-10. Tin nhắn người gửi
-11. Tin nhắn người nhận
 
-![Chat1_1](https://github.com/user-attachments/assets/dc4037da-9b66-4db7-87f8-9c3c12b41eb2)
+![Chat1_1](https://github.com/user-attachments/assets/dc4037da-9b66-4db7-87f8-9c3c12b41eb2)                 1. Xóa tin nhắn
+                                                                                                            2. Thu hồi tin nhắn
+                                                                                                            3. Chuyển tiếp tin nhắn
+                                                                                                            4. Gửi hình ảnh
+                                                                                                            5. Gửi emoji
+                                                                                                            6. Gửi GIF
+                                                                                                            7. Gửi video
+                                                                                                            8. Nhập tin nhắn
+                                                                                                            9. Gửi tin nhắn
+                                                                                                            10. Tin nhắn người gửi
+                                                                                                            11. Tin nhắn người nhận
 
 
  
+
+
 
   * Chat nhóm
     - Chat nhóm: Người dùng có thể chat nhóm cùng các thành viên khác trong nhóm.
@@ -139,6 +151,8 @@
 
 
 
+
+
    * Tùy chỉnh nhóm
      - Người dùng có thể tùy chỉnh nhóm
 1. Thêm thành viên vào nhóm
@@ -150,6 +164,8 @@
 7. Giải tán nhóm
 
 ![GroupSetting](https://github.com/user-attachments/assets/829bb00f-fd7b-465f-ba87-e8ce08c5f8d9)
+
+
 
 
 
