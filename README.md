@@ -116,18 +116,20 @@
 
   * Chat 1 - 1
     - Chat 1-1: Người dùng có thể chat 1 - 1 với bạn bè hoặc người dùng khác chưa kết bạn.
+1. Xóa tin nhắn
+2. Thu hồi tin nhắn
+3. Chuyển tiếp tin nhắn
+4. Gửi hình ảnh
+5. Gửi emoji
+6. Gửi GIF
+7. Gửi video
+8. Nhập tin nhắn
+9. Gửi tin nhắn
+10. Tin nhắn người gửi
+11. Tin nhắn người nhận
 
-![Chat1_1](https://github.com/user-attachments/assets/dc4037da-9b66-4db7-87f8-9c3c12b41eb2)                 1. Xóa tin nhắn
-                                                                                                            2. Thu hồi tin nhắn
-                                                                                                            3. Chuyển tiếp tin nhắn
-                                                                                                            4. Gửi hình ảnh
-                                                                                                            5. Gửi emoji
-                                                                                                            6. Gửi GIF
-                                                                                                            7. Gửi video
-                                                                                                            8. Nhập tin nhắn
-                                                                                                            9. Gửi tin nhắn
-                                                                                                            10. Tin nhắn người gửi
-                                                                                                            11. Tin nhắn người nhận
+                                                                                                                
+![Chat1_1](https://github.com/user-attachments/assets/dc4037da-9b66-4db7-87f8-9c3c12b41eb2)                 
 
 
  
