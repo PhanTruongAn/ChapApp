@@ -30,7 +30,7 @@
 
   
   * Đăng ký
-   - Người dùng nhập đầy đủ thông tin đăng ký và xác thực OTP qua gmail đã đăng ký
+    - Người dùng nhập đầy đủ thông tin đăng ký và xác thực OTP qua gmail đã đăng ký
 ![Regis](https://github.com/user-attachments/assets/8d77dede-7988-4372-854b-6c2fd3dd722b)
 ![OTP](https://github.com/user-attachments/assets/d0012a33-3fc8-405e-ad32-a826832032ca)
 
@@ -40,8 +40,9 @@
 
 
 
+
   * Đăng nhập
-  - Người dùng nhập đầy đủ thông tin đăng nhập, có thể lấy lại mật khẩu qua chức năng quên mật khẩu
+    - Người dùng nhập đầy đủ thông tin đăng nhập, có thể lấy lại mật khẩu qua chức năng quên mật khẩu
 1. Nhập thông tin tài khoản
 2. Đăng nhập
 3. Quên mật khẩu, sẽ chuyển sang màn hình OTP để xác thực.
