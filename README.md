@@ -26,10 +26,16 @@
 
 
 ### Các chức năng
-- Bao gồm các chức năng: 
-  * Đăng ký
+- Bao gồm các chức năng:
 
   
+  * Đăng ký
+   - Người dùng nhập đầy đủ thông tin đăng ký và xác thực OTP qua gmail đã đăng ký
+   ![Regis](https://github.com/user-attachments/assets/8d77dede-7988-4372-854b-6c2fd3dd722b)
+   ![OTP](https://github.com/user-attachments/assets/d0012a33-3fc8-405e-ad32-a826832032ca)
+
+
+
   * Đăng nhập 
   ![Login](https://github.com/user-attachments/assets/a1f17a0c-615d-4ab8-8c66-61d05cb21a14)
 1. Nhập thông tin tài khoản
@@ -38,21 +44,103 @@
 4. Đăng ký
 
 
-  * Add friend
-    - A user can request to add friend to one user and wait for the response.
 
-      + Login to Thao account, and when accepting the request "add friend" from Hieu Nguyen, The application will add Hieu Nguyen to the friend list.
- 
-  
-  * Create new group
-    - The user can create a group, which must have at least three people (including the creator), create a group layout that only shows people who are friends of the user, and the user can enter the group name and avatar (optional).
-  
+
+  * Màn hình chính
+![HomeChat](https://github.com/user-attachments/assets/492306c6-61ef-4adb-b9d1-ed27a5433b3c)
+1. Danh sách các cuộc trò chuyện
+2. Danh sách bạn bè, lời mời kết bạn, ds nhóm,..
+3. Cài đặt thông tin cá nhân
+4. Màn hình hiển thị ds cuộc trò chuyện
+5. Tìm kiếm người dùng bằng Sdt
+6. Mở model tạo nhóm
+
+
+  * Thêm bạn 
+    - Người dùng nhập số điện thoại tìm kiếm, gửi lời mời kết bạn và đợi họ chấp nhận
+![Addfriend](https://github.com/user-attachments/assets/00a6f4cc-ccda-4a5c-a9f6-412a4726f8a7)
+![Addfriend3](https://github.com/user-attachments/assets/5889d815-c89b-4a8b-9ddb-1375d8dfd3ce)
+1. Ấn vào avatar di chuyển vào chat đơn
+2. Chấp nhập lời mời kết bạn
+3. Từ chối lời mời kết bạn
+
+
+  * Quản lý bạn bè
+    - Người dùng có thể quản lý danh sách bạn bè, lời mời kết bạn hoặc nhóm
+![Addfriend2](https://github.com/user-attachments/assets/7de07260-cc76-419b-ae12-a54540a88e60)
+1. Danh sách bạn bè
+2. Danh sách lời mời kết bạn đã gửi
+3. Danh sách lời mời kết bạn
+4. Danh sách nhóm
+5. Di chuyển đến màn hình chat đơn
+6. Xóa bạn bè
+
+
+  * Tạo nhóm mới
+    - Người dùng có thể tạo nhóm với ít nhất là 3 thành viên (bao gồm cả người tạo), chỉ có bạn bè mới hiển thị ở danh sách thêm thành viên vào nhóm.
+  ![CreateGroup](https://github.com/user-attachments/assets/c8434626-110c-4169-aafe-9ca56c79bd41)
+1. Nhập tên nhóm
+2. Danh sách bạn bè, click vào để thêm thành viên vào nhóm
+3. Xác nhận tạo nhóm
+
+
+
   * Chat 1 - 1
-    - Chat 1-1: The user can chat text messages that come with emojis and send images, files, and locations. More users can react to messages, delete messages, delete me messages, pin messages, play video files, and reply to previous messages.
+    - Chat 1-1: Người dùng có thể chat 1 - 1 với bạn bè hoặc người dùng khác chưa kết bạn.
+![Chat1_1](https://github.com/user-attachments/assets/dc4037da-9b66-4db7-87f8-9c3c12b41eb2)
+1. Xóa tin nhắn
+2. Thu hồi tin nhắn
+3. Chuyển tiếp tin nhắn
+4. Gửi hình ảnh
+5. Gửi emoji
+6. Gửi GIF
+7. Gửi video
+8. Nhập tin nhắn
+9. Gửi tin nhắn
+10. Tin nhắn người gửi
+11. Tin nhắn người nhận![image](https://github.com/user-attachments/assets/86ce1576-c518-430c-bb36-2465e1208715)
+
  
 
-  * Chat group
-    - Chat group: Chat groups can add new members to the group. The user can chat text messages that come with emojis and send images, files. More users delete messages, delete me messages, and reply to previous messages.
+  * Chat nhóm
+    - Chat nhóm: Người dùng có thể chat nhóm cùng các thành viên khác trong nhóm.
+![ChatAll](https://github.com/user-attachments/assets/523e47c6-72c3-4332-a508-4979b4c8d81b)
+1. Màn hình render tin nhắn nhóm
+2. Tùy chỉnh nhóm
+3. Gửi hình ảnh
+4. Gửi emoji
+5. Gửi GIF
+6. Gửi video
+7. Nhập tin nhắn
+8. Gửi tin nhắn
+
+
+
+
+   * Tùy chỉnh nhóm
+     - Người dùng có thể tùy chỉnh nhóm
+![GroupSetting](https://github.com/user-attachments/assets/829bb00f-fd7b-465f-ba87-e8ce08c5f8d9)
+1. Thêm thành viên vào nhóm
+2. Đổi tên nhóm
+3. Đổi ảnh nhóm
+4. Quản lý thành viên nhóm
+5. Chuyển quyền trưởng nhóm
+6. Rời nhóm
+7. Giải tán nhóm
+
+
+
+
+   * Quản lý thành viên nhóm
+     - Chỉ có nhóm trưởng mới có thể quản lý thành viên nhóm
+![GroupManage](https://github.com/user-attachments/assets/cdbc852d-93bc-4c82-ae64-40d0af2f101b)
+1. Thêm thành viên nhóm
+2. Tìm kiếm thành viên trong nhóm
+3. Danh sách thành viên nhóm
+4. Xem nhóm trưởng
+5. Xóa thành viên nhóm
+
+
  
 
     
