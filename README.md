@@ -31,13 +31,13 @@
   
   * Đăng ký
    - Người dùng nhập đầy đủ thông tin đăng ký và xác thực OTP qua gmail đã đăng ký
-   ![Regis](https://github.com/user-attachments/assets/8d77dede-7988-4372-854b-6c2fd3dd722b)
-   ![OTP](https://github.com/user-attachments/assets/d0012a33-3fc8-405e-ad32-a826832032ca)
+![Regis](https://github.com/user-attachments/assets/8d77dede-7988-4372-854b-6c2fd3dd722b)
+![OTP](https://github.com/user-attachments/assets/d0012a33-3fc8-405e-ad32-a826832032ca)
 
 
 
   * Đăng nhập 
-  ![Login](https://github.com/user-attachments/assets/a1f17a0c-615d-4ab8-8c66-61d05cb21a14)
+![Login](https://github.com/user-attachments/assets/a1f17a0c-615d-4ab8-8c66-61d05cb21a14)
 1. Nhập thông tin tài khoản
 2. Đăng nhập
 3. Quên mật khẩu, sẽ chuyển sang màn hình OTP để xác thực.
@@ -78,7 +78,7 @@
 
   * Tạo nhóm mới
     - Người dùng có thể tạo nhóm với ít nhất là 3 thành viên (bao gồm cả người tạo), chỉ có bạn bè mới hiển thị ở danh sách thêm thành viên vào nhóm.
-  ![CreateGroup](https://github.com/user-attachments/assets/c8434626-110c-4169-aafe-9ca56c79bd41)
+![CreateGroup](https://github.com/user-attachments/assets/c8434626-110c-4169-aafe-9ca56c79bd41)
 1. Nhập tên nhóm
 2. Danh sách bạn bè, click vào để thêm thành viên vào nhóm
 3. Xác nhận tạo nhóm
@@ -98,7 +98,7 @@
 8. Nhập tin nhắn
 9. Gửi tin nhắn
 10. Tin nhắn người gửi
-11. Tin nhắn người nhận![image](https://github.com/user-attachments/assets/86ce1576-c518-430c-bb36-2465e1208715)
+11. Tin nhắn người nhận
 
  
 
